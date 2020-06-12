@@ -3,7 +3,6 @@ node_modules/
 dist/
 lib/
 output/
-demo/
 package-lock.json
 
 # local env files
